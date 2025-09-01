@@ -1,0 +1,86 @@
+[
+  {
+    "customer_id": "CUST1001",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "signup_date": "2023-05-10",
+    "country": "USA"
+  },
+  {
+    "customer_id": "CUST1002",
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "signup_date": "2023-06-15",
+    "country": "Canada"
+  },
+  {
+    "customer_id": "CUST1003",
+    "name": "Charlie Davis",
+    "email": "charlie@example.com",
+    "signup_date": "2023-04-22",
+    "country": "UK"
+  },
+  {
+    "customer_id": "CUST1004",
+    "name": "Diana Prince",
+    "email": "diana@example.com",
+    "signup_date": "2023-07-01",
+    "country": "USA"
+  },
+  {
+    "customer_id": "CUST1005",
+    "name": "Ethan Brown",
+    "email": "ethan@example.com",
+    "signup_date": "2023-03-19",
+    "country": "Germany"
+  },
+  {
+    "customer_id": "CUST1006",
+    "name": "Fiona Green",
+    "email": "fiona@example.com",
+    "signup_date": "2023-02-14",
+    "country": "France"
+  },
+  {
+    "customer_id": "CUST1007",
+    "name": "George Miller",
+    "email": "george@example.com",
+    "signup_date": "2023-08-05",
+    "country": "USA"
+  },
+  {
+    "customer_id": "CUST1008",
+    "name": "Hannah Wilson",
+    "email": "hannah@example.com",
+    "signup_date": "2023-01-09",
+    "country": "Australia"
+  },
+  {
+    "customer_id": "CUST1009",
+    "name": "Ian Clark",
+    "email": "ian@example.com",
+    "signup_date": "2023-09-12",
+    "country": "USA"
+  },
+  {
+    "customer_id": "CUST1010",
+    "name": "Julia Lopez",
+    "email": "julia@example.com",
+    "signup_date": "2023-10-02",
+    "country": "Spain"
+  },
+  {
+    "customer_id": "CUST1011",
+    "name": "Kevin Wright",
+    "email": "kevin@example.com",
+    "signup_date": "2023-05-25",
+    "country": "USA"
+  },
+  {
+    "customer_id": "CUST1012",
+    "name": "Laura Martinez",
+    "email": "laura@example.com",
+    "signup_date": "2023-07-18",
+    "country": "Mexico"
+  }
+]

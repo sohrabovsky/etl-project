@@ -1,0 +1,92 @@
+[
+  {
+    "product_id": "PROD2001",
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 25.99
+  },
+  {
+    "product_id": "PROD2002",
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 79.99
+  },
+  {
+    "product_id": "PROD2003",
+    "name": "Gaming Headset",
+    "category": "Electronics",
+    "price": 59.99
+  },
+  {
+    "product_id": "PROD2004",
+    "name": "HD Monitor",
+    "category": "Electronics",
+    "price": 199.99
+  },
+  {
+    "product_id": "PROD2005",
+    "name": "USB-C Hub",
+    "category": "Electronics",
+    "price": 34.99
+  },
+  {
+    "product_id": "PROD2006",
+    "name": "Smartphone Stand",
+    "category": "Accessories",
+    "price": 12.99
+  },
+  {
+    "product_id": "PROD2007",
+    "name": "Laptop Backpack",
+    "category": "Accessories",
+    "price": 49.99
+  },
+  {
+    "product_id": "PROD2008",
+    "name": "Water Bottle",
+    "category": "Home",
+    "price": 15.5
+  },
+  {
+    "product_id": "PROD2009",
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 29.99
+  },
+  {
+    "product_id": "PROD2010",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 89.99
+  },
+  {
+    "product_id": "PROD2011",
+    "name": "Yoga Mat",
+    "category": "Fitness",
+    "price": 24.99
+  },
+  {
+    "product_id": "PROD2012",
+    "name": "Running Shoes",
+    "category": "Fitness",
+    "price": 69.99
+  },
+  {
+    "product_id": "PROD2013",
+    "name": "Cookware Set",
+    "category": "Home",
+    "price": 120.0
+  },
+  {
+    "product_id": "PROD2014",
+    "name": "Electric Kettle",
+    "category": "Home",
+    "price": 45.0
+  },
+  {
+    "product_id": "PROD2015",
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 150.0
+  }
+]
